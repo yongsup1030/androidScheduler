@@ -17,7 +17,9 @@ Corresponds to Android v2.2 to v4.3.
 Choose date and add schedule.
 Now this have many bugs.
 Can't save DB not yet.(it just use hashtable)
+I want issues for this project.
 You can be import project using Eclipse
+
 
 アンドロイド用のスケジュラーです。
 Android 2.2から4.3まで支援します。
