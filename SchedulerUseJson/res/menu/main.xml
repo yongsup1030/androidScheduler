@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/inputSch"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="일정 추가"/>
+    
+    <item 
+        android:id="@+id/deleteSchedule"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="선택일정 삭제"/>
+
+</menu>
